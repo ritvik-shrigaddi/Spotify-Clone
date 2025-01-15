@@ -1,1 +1,2 @@
-This is my second HTML and CSS Project which I have created.
+This project I have created using HTML and CSS and its a spotify clone.
+
